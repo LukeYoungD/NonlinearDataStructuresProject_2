@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  tree.cpp
+c:\users\lukes\source\repos\postfix\postfix\tree.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lukes\source\repos\postfix\postfix\tree.cpp(147): warning C4101: 'theValue': unreferenced local variable
+  PostFix.cpp
+c:\users\lukes\source\repos\postfix\postfix\postfix.cpp(66): warning C4101: 'code': unreferenced local variable
+c:\users\lukes\source\repos\postfix\postfix\postfix.cpp(65): warning C4101: 'idValue': unreferenced local variable
+c:\users\lukes\source\repos\postfix\postfix\postfix.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  PostFix.vcxproj -> C:\Users\lukes\source\repos\PostFix\Debug\PostFix.exe
